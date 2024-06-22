@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Jokes-Bugs-Errors-Lines-of-Code-854x1024.jpg" align="center" style="width: 100%" style="height: 40%" />
+<img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Jokes-Bugs-Errors-Lines-of-Code-854x1024.jpg" align="center" style="height: 40"  />
 </div>  
   
 
