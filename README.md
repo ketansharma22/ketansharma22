@@ -1,7 +1,7 @@
 ### <div align="center">I'm Ketan Sharma (aka) DeveloperOP , I wirte code just to generate and solve errors ! 🚀</div>  
   
 
-<div align="center">
+<div align="left">
 <img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Jokes-Bugs-Errors-Lines-of-Code-854x1024.jpg" align="left" style="height: 20"  />
 </div>  
   
