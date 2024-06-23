@@ -93,5 +93,5 @@
 
 <br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketansharma22&" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketansharma22&" align="center" /></div>
 
