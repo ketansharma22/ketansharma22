@@ -1,7 +1,6 @@
 ### <div align="center">I'm Ketan Sharma (aka) DeveloperOP , I wirte code just to generate and solve errors ! 🚀</div>  
   
-### visit my personal portfolio 
-🤳 [here](https://myhome-ketansharma22s-projects.vercel.app/)
+[Visit my personal portfolio 🤳](https://myhome-ketansharma22s-projects.vercel.app/)
 <div align="centre">
 <img  src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/funny-coder-computer-programmer-michael-s.jpg"  />
 </div>  
