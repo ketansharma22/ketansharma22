@@ -86,7 +86,7 @@
   
 
 <br/>  
-##More Status
+## More Stats
 <img src="https://github-profile-trophy.vercel.app/?username=ketansharma22&theme=dracula" />
 
 
