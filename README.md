@@ -95,5 +95,4 @@
 
 <br/>  
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketansharma22&" align="center" /></div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ketansharma22&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
