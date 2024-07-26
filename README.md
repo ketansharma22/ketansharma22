@@ -70,7 +70,7 @@
 
 <br/> 
 
-## Most Used Languages 💻
+### Most Used Languages 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketansharma22&layout=compact&theme=midnight-purple)](https://github.com/ketansharma22)
 
