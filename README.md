@@ -74,7 +74,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketansharma22&layout=compact&theme=midnight-purple)](https://github.com/ketansharma22)
 
 
-## Connect with me  
+### Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/ketansharma22" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
