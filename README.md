@@ -2,7 +2,7 @@
 <div align="center"> Visit my personal portfolio 🤳 https://myhome-ketansharma22s-projects.vercel.app/</div>
 <br/>
 <div align="center">
-<img align="center" height=400 width=500 src="[https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/funny-coder-computer-programmer-michael-s.jpg](https://wallpapercave.com/wp/wp6763962.png)"  />
+<img align="center" height=400 width=500 src="https://wallpapercave.com/wp/wp6763962.png"  />
 </div>  
   
 
