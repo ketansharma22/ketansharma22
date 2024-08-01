@@ -9,7 +9,7 @@
 - ## 🔭 I’m currently working on [pet](https://github.com/ketansharma22/pet)  
   
 
-- ### 🌱 I’m currently learning Node.js And Python 🐱‍🐉  
+- ### 🌱 I’m currently learning DevOps And Python 🐱‍🐉  
   
 
 - ### ❓ Ask me about anything related to MERN stack and related technologies  
