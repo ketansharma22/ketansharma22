@@ -1,4 +1,4 @@
-# <div align="center">I'm Ketan Sharma (aka) DeveloperOP , I write code just to solve errors ! 🚀</div>  
+# <div align="center">I'm Ketan Sharma (aka) Developer , I write code just to solve errors ! 🚀</div>  
 <div align="center"> Visit my personal portfolio 🤳 https://myhome-ketansharma22s-projects.vercel.app/</div>
 <br/>
 <div align="center">
