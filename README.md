@@ -94,8 +94,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ketansharma22&theme=dracula" />
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ketansharma22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 <br/>  
 
