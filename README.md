@@ -6,7 +6,7 @@
 </div>  
   
 
-- ## 🔭 I’m currently working on [pet](https://github.com/ketansharma22/vajranative)  
+- ## 🔭 I’m currently working on [Vnative](https://github.com/ketansharma22/Vnative)  
   
 
 - ### 🌱 I’m currently learning DevOps And Python 🐱‍🐉  
