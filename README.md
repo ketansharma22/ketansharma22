@@ -9,7 +9,7 @@
 - ## 🔭 I’m currently working on [Vnative](https://github.com/ketansharma22/Vnative)  
   
 
-- ### 🌱 I’m currently learning DevOps And Python 🐱‍🐉  
+- ### 🌱 I’m currently learning Native And Web-3 🐱‍🐉  
   
 
 - ### ❓ Ask me about anything related to MERN stack and related technologies  
