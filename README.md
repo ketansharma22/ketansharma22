@@ -1,4 +1,5 @@
-# <div align="center">I'm Ketan Sharma (aka) Developer , I write code just to solve errors ! 🚀</div>  
+# <div align="center">I'm Ketan Sharma (aka) Developer , I write code just to solve errors ! 🚀</div> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketansharma22&label=Profile%20views&color=0e75b6&style=flat" alt="KetanSharma" /> </p>
 <div align="center"> Visit my personal portfolio 🤳 https://myhome-ketansharma22s-projects.vercel.app/</div>
 <br/>
 <div align="center">
