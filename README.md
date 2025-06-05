@@ -6,8 +6,6 @@
 <img align="center" height=400 width=500 src="https://wallpapercave.com/wp/wp6763962.png"  />
 </div>  
   
-
-- ## 🔭 I’m currently working on [Vnative](https://github.com/ketansharma22/Vnative)  
   
 
 - ### 🌱 I’m currently learning Native And Web-3 🐱‍🐉  
